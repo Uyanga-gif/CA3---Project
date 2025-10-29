@@ -8,11 +8,10 @@ This is my CA3 coursework assignment.
 ![Collaboration tools proof](./screenshots/Collaboration%20tools/figma.png)
 ![Collaboration tools proof](./screenshots/Collaboration%20tools/Draw.io.png)
 ## Network 
-![Network proof](./screenshots/Network%20proof/network1.png)
+![Network proof](./screenshots/Network_proof/network1.png)
 ## Github
 ### git status / git log
-![Github proof](./screenshots/Github%20proof/github1.png)
-## Declaration 
+![Github proof](./screenshots/Github_proof/github1.png)
 Here is my declaration:
 [View Declaration PDF](./Declaration/declaration.pdf)
 
